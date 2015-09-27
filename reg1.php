@@ -18,7 +18,8 @@
 <body>
 
 
-<span>
+<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
+
 <table align="center" style bgcolor="#E1B01E">
 <tr>
 <td bgcolor="#FF0000">Student Name</td>
@@ -72,48 +73,10 @@
 
 </table>
 
-<span/>
+</form>
 
 <a href="https://twitter.com/Its_Coffee_Time" ">
 <img src="rj2.jpg" width="150"height ="50" ></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </br>
